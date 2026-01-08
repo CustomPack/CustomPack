@@ -3,11 +3,11 @@
 </p>
 
 <p>
-  <a href="https://discord.gg/YOUR_INVITE">
-    <img src="https://img.shields.io/badge/Join%20the%20Discord-purple?logo=discord" />
+  <a href="https://discord.gg/EZEQrUmuG6">
+    <img src="https://img.shields.io/badge/Discord-Server-purple?logo=discord" />
   </a>
   <a href="https://devforum.roblox.com/t/152-custompack-customizable-backpacks-made-simple/3255258">
-    <img src="https://img.shields.io/badge/DevForum-discussion-purple?logo=roblox" />
+    <img src="https://img.shields.io/badge/DevForum-discussion-grey?logo=robloxstudio&logoColor=%23ffffff&color=%2300aaff" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/build-passing-brightgreen" />
