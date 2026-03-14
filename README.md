@@ -17,3 +17,12 @@
 # CustomPack
 
 **CustomPack** is a Roblox inventory system that builds on the default Roblox inventory system, but more modern and customizable. There's also an API that in the Wiki, I will be documenting soon.
+
+---
+
+# Features
+
+- API system
+- Different UI design, compared to the default backpack.
+- Rojo syncing support for GitHub repo
+- And more!
