@@ -40,7 +40,7 @@
 --]]
 
 
-print("This game uses CustomPack v1.5.2\nCustomPack is made by Berge99075\nGrab a copy at https://devforum.roblox.com/t/custompack-customizable-backpacks-made-simple/3255258/")
+print("This game uses CustomPack v1.5.3\nCustomPack is made by Berge99075\nGrab a copy at https://devforum.roblox.com/t/custompack-customizable-backpacks-made-simple/3255258/")
 
 local BackpackScript = {}
 BackpackScript.Version = "1.5.3"
